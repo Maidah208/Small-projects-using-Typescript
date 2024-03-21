@@ -1,0 +1,1 @@
+- This repository provides a user-friendly and interactive command-line calculator built with TypeScript, Inquirer, and Node.js. It empowers you to perform basic mathematical operations directly from your terminal.
