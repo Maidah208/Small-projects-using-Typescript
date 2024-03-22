@@ -1,4 +1,4 @@
-_NUMBER GUESSING GAME_
+*_NUMBER GUESSING GAME_*
 
 - This project is a simple yet engaging number guessing game implemented using TypeScript. The user has three chances to guess a randomly generated number between 1 and 10.
   
